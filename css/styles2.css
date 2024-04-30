@@ -1,0 +1,45 @@
+.wideleftmargin {
+	padding: 5% 5% 5% 22%;
+    color: aqua
+}
+
+.bottomrule {
+	border-bottom: 1px solid #000000;
+	}
+.border {
+    color: white
+}
+.blue {
+	background-color: blue;
+	}
+p {
+	font-family: Helvetica light;
+	font-size: 1.2em;
+	color: white;
+}
+
+H1 {
+	font-family: Helvetica;
+	font-size: 2.5em;
+	color: white;
+	background-color: blue;
+	}
+#header {
+	background-color: #e1e1e1;
+	width: 100%;
+	color: #000000;
+	position:fixed;
+	z-index:100;
+	}
+
+#footer {
+    font-family: Impact;
+	width: 100%;
+	color: yellow;
+    font-size: 1.2em;
+     }
+h1 {
+	font-family: impact;
+    font-size: 50px;
+    color: white
+    
